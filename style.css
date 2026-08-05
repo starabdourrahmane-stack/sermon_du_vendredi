@@ -1,0 +1,25 @@
+body{
+    background-color :aliceblue;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    justify-content: center;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px rgba(0,0, 0, 0.1);
+    background-color: white;
+}
+.footer-bottom{
+    background-color: green;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+.icone{
+    text-align: center;
+}

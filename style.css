@@ -6,20 +6,32 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 
 }
-p{
+.main{
     justify-content: center;
     border: 1px solid white;
     padding: 15px;
     border-radius: 12px;
     box-shadow: 5px 5px 5px rgba(0,0, 0, 0.1);
     background-color: white;
+    text-align: center;
+    margin-top: 50px;
 }
 .footer-bottom{
-    background-color: green;
+    background-color: rgba(81, 132, 81, 0.422);
     margin: 0;
     padding: 15px;
     text-align: center;
 }
 .icone{
     text-align: center;
+}
+.icone img{
+    width: 40px;height: 40px;
+}
+.img-mosq{
+    width: 180px ;
+    height: 180px;
+    justify-content: center; 
+   font-size: cover;
+    border-radius: 100px;
 }
